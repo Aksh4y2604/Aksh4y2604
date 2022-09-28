@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **bhatia.akshay101@gmail.com**
 
-- ⚡ Fun fact **Burgers are better than pizzas.**
+- ⚡ **Burgers are better than pizzas.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
