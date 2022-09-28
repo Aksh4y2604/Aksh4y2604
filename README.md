@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **flutter, dart, express**
 
-- 💬 Ask me about **react, express, node, python, django, flutter**
+- 💬 Ask me about **react, vue, next.js,  express, node, python, django, flutter**
 
 - 📫 How to reach me **bhatia.akshay101@gmail.com**
 
