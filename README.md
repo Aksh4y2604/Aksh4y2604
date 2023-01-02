@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akshay Bhatia</h1>
 <h3 align="center">A passionate Computer Science Enthusiast curious to learn new technologies.</h3>
 
-- 🌱 I’m currently learning **flutter, dart, express**
-
-- 💬 Ask me about **react, vue, next.js,  express, node, python, django, flutter**
+- Learn more about me [here](https://akshaybhatia.vercel.app/)
 
 - 📫 How to reach me **bhatia.akshay101@gmail.com**
-
-- ⚡ **Burgers are better than pizzas.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
